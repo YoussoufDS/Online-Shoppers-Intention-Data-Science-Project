@@ -20,7 +20,7 @@ The Lifecycle:
 
 📊 2. The Dataset: Analyzing Customer Behavior
 
-The [Dataset]((https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset)) consists of 12,330 e-commerce sessions. 
+The [Dataset](url(https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset)) consists of 12,330 e-commerce sessions. 
 
     Browsing Variables: Number of pages visited (Administrative, Informational, ProductRelated) and associated durations.
 
